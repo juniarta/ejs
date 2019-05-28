@@ -1,6 +1,6 @@
 {
   "name": "koa-ejs",
-  "version": "4.1.1",
+  "version": "4.2.0",
   "description": "ejs render middleware for koa",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "debug": "^2.6.1",
-    "ejs": "^2.5.7",
+    "ejs": "^2.6.1",
     "mz": "^2.6.0"
   },
   "engine": {
